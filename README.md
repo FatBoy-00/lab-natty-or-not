@@ -5,9 +5,9 @@ Vídeo: O desafio da mudança de área profissional depois dos 50 anos
 O vídeo aborda um tema importante para os profissionais com mais de 50 anos, de fora da área de tecnologia
 
 ## Tecnologias Utilizadas
-. Microsoft Copilot para criar um roteiro e definir o texto final;
-. ElevenLabs para gerar o áudio utilizando text-to-speach;
-. VEED.IO para criar o avatar fazendo a apresentação;
+- Microsoft Copilot para criar um roteiro e definir o texto final;
+- ElevenLabs para gerar o áudio utilizando text-to-speach;
+- VEED.IO para criar o avatar fazendo a apresentação.
 
 ## Processo de Criação
 Iniciei o processo de criação do vídeo pela MS Copilot, solicitando um roteiro para desenvolver um assunto que me é bastante atual: como me preparar para mudar de área de atuação profissional após os 50 anos, mais especificamente para a área de tecnologia e utilização de Ias Generativas.
