@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto
 Vídeo: O desafio da mudança de área profissional depois dos 50 anos
 
 ## Descrição
